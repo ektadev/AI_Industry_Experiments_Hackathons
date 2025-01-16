@@ -7,4 +7,5 @@ AI Hackathon - Team 1_Ekta Srivastava.zip
 WorkingWithQVDFiles_ExampleFiles.zip
 
 3.) Multimodal RAG by GCP Challenge Lab
+Multimodal RaG GCP - Challenge Lab.zip
 
