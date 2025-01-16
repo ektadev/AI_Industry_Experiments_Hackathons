@@ -5,3 +5,6 @@ AI Hackathon - Team 1_Ekta Srivastava.zip
 
 2.) Experimentation on How to use QVD files with code examples
 WorkingWithQVDFiles_ExampleFiles.zip
+
+3.) Multimodal RAG by GCP Challenge Lab
+
