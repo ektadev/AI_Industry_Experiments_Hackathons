@@ -9,3 +9,5 @@ WorkingWithQVDFiles_ExampleFiles.zip
 3.) Multimodal RAG by GCP Challenge Lab
 Multimodal RaG GCP - Challenge Lab.zip
 
+4.) Experiement with the latest Gemini 2.5 Pro
+intro_gemini_2_5_pro-v1.0.0.ipynb
