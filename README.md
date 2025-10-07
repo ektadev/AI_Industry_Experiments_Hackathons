@@ -11,3 +11,6 @@ Multimodal RaG GCP - Challenge Lab.zip
 
 4.) Experiment with the latest Gemini 2.5 Pro
 intro_gemini_2_5_pro-v1.0.0.ipynb
+
+5.) Customer Review aith Gemini
+Customer Review Analysis with Gemini using Python notebook .ipynb
