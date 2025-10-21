@@ -14,3 +14,6 @@ intro_gemini_2_5_pro-v1.0.0.ipynb
 
 5.) Customer Review aith Gemini
 Customer Review Analysis with Gemini using Python notebook .ipynb
+
+6.) Visual Inspection with AI
+Visual Inspection AI Trial & Error.txt
