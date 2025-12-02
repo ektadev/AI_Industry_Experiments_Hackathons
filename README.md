@@ -11,3 +11,5 @@ All attended and participated AI Industry Experiments and Hackathons
 5.) Customer Review aith Gemini - Customer Review Analysis with Gemini using Python notebook .ipynb
 
 6.) Visual Inspection with AI - Visual Inspection AI Trial & Error.txt
+
+7.) Gemini Flash 2.5 Hand-On Experiment - Gemini Flash 2.5 experiment.ipynb
